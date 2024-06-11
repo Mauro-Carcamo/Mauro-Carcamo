@@ -1,3 +1,4 @@
+<div style="background-color:black; padding:20px;">
 ## Hola! Soy Mauricio Cárcamo 👋
 
 <p align="center">
@@ -28,3 +29,4 @@
 - Comunicación efectiva de resultados y hallazgos de análisis de datos
 - Estudiando MLops para el despliegue de los modelos
 <br>
+<div/>
