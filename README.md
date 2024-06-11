@@ -29,4 +29,4 @@
 - Comunicación efectiva de resultados y hallazgos de análisis de datos
 - Estudiando MLops para el despliegue de los modelos
 <br>
-<div/>
+</div>
