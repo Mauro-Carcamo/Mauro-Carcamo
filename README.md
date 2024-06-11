@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&random=false&width=435&lines=Sue%C3%B1o+con+analizar+datos+del+espacio;Pienso+que+es+el+trabajo+del+futuro;Para+eso+me+he+formado+en+...;Ciencia+de+Datos!;Developer+Full+Stack+Python!;%C2%BFY+la+Sociolog%C3%ADa?;Es+mi+base+anal%C3%ADtica;Metodol%C3%B3gica; Y+sobre+todo+...;Como+me+enfrento+al+mundo;desde+el+pensamiento+cr%C3%ADtico"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&random=false&width=435&lines=Sue%C3%B1o+con+analizar+datos+del+espacio;Pienso+que+es+el+trabajo+de+futuro;Para+eso+me+he+formado+en+...;Ciencia+de+Datos+!;Developer+Full+Stack+Python+!;%C2%BFY+la+Sociolog%C3%ADa%3F+%3A);Es+mi+base+anal%C3%ADtica;Metodol%C3%B3gica;Y+sobre+todo+...;Como+me+enfrento+al+mundo;Desde+el+pensamiento+cr%C3%ADtico"></a>
 </p>
 
 
