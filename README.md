@@ -10,7 +10,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1gKOyIYn72Fer1YEjdIKWFyCu5YHUqLow" style="width: 100%; margin-top: -50px;">
 </div>
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> **Sobre mí**
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> **Sobre mi**
 
 - Sociología, Universidad Central de Chile :books:
 - Diplomado en Ciencia de Datos, Universidad Católica de Chile :bar_chart:
