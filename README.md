@@ -19,15 +19,6 @@
 - Bootcamp Developer Full Stack Python, Talento Digital Chile
 - Bootcamp Especialización en Ciencia de Datos, Talento Digital Chile
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> **Sobre mí**
-
-- Sociología, Universidad Central de Chile
-- Diplomado en Ciencia de Datos, Universidad Católica de Chile
-- Bootcamp Developer Full Stack Python, Talento Digital Chile
-- Bootcamp Especialización en Ciencia de Datos, Talento Digital Chile
-
-
-
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
