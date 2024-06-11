@@ -1,4 +1,3 @@
-<div style="background-color:black; padding:20px;">
 ## Hola! Soy Mauricio Cárcamo 👋
 
 <p align="center">
