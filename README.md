@@ -7,10 +7,17 @@
 </p>
 
 <div style="overflow: hidden; height: 200px;">
-  <img src="https://drive.google.com/file/d/1gKOyIYn72Fer1YEjdIKWFyCu5YHUqLow/view?usp=sharing](https://drive.google.com/file/d/1gKOyIYn72Fer1YEjdIKWFyCu5YHUqLow/view?usp=sharing](https://drive.google.com/file/d/1gKOyIYn72Fer1YEjdIKWFyCu5YHUqLow/view?usp=sharing">
+  <img src="https://drive.google.com/uc?export=view&id=1gKOyIYn72Fer1YEjdIKWFyCu5YHUqLow" style="width: 100%; margin-top: -50px;">
 </div>
 
 <br>
+
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> **Sobre mí**
+
+- Sociología, Universidad Central de Chile
+- Diplomado en Ciencia de Datos, Universidad Católica de Chile
+- Bootcamp Developer Full Stack Python, Talento Digital Chile
+- Bootcamp Especialización en Ciencia de Datos, Talento Digital Chile
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> **Sobre mí**
 
