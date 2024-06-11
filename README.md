@@ -7,7 +7,7 @@
 </p>
 
 <div style="overflow: hidden; height: 200px;">
-  <img src="https://drive.google.com/file/d/1gKOyIYn72Fer1YEjdIKWFyCu5YHUqLow/view?usp=sharing">
+  <img src="https://drive.google.com/file/d/1gKOyIYn72Fer1YEjdIKWFyCu5YHUqLow/view?usp=sharing](https://drive.google.com/file/d/1gKOyIYn72Fer1YEjdIKWFyCu5YHUqLow/view?usp=sharing">
 </div>
 
 <br>
