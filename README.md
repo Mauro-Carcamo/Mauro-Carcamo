@@ -7,7 +7,7 @@
 </p>
 
 <div style="overflow: hidden; height: 200px;">
-  <img src="https://www.wakeandlisten.com/wp-content/uploads/2016/05/radiohead-moon-shaped-pool.jpg" style="width: 100%; margin-top: -50px;">
+  <img src="https://drive.google.com/file/d/1gKOyIYn72Fer1YEjdIKWFyCu5YHUqLow/view?usp=sharing" style="width: 100%; margin-top: -50px;">
 </div>
 
 <br>
