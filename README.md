@@ -15,10 +15,10 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-- Sociología Universidad Central de Chile
-- Diplomado Ciencia de Datos Universidad Católica de Chile
-- Bootcamp Developer Full Stack Python Talento Digital Chile
-- Bootcampo Especialización en Ciencia de Datos Talento Digital Chile
+- Sociología, Universidad Central de Chile
+- Diplomado en Ciencia de Datos, Universidad Católica de Chile
+- Bootcamp Developer Full Stack Python, Talento Digital Chile
+- Bootcamp Especialización en Ciencia de Datos, Talento Digital Chile
 
 
 <br><br>
