@@ -6,6 +6,7 @@
   </a>
 </p>
 ![Banner](https://www.wakeandlisten.com/wp-content/uploads/2016/05/radiohead-moon-shaped-pool.jpg)
+<br>
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> **Sobre mi**
 - Sociología, Universidad Central de Chile
 - Diplomado en Ciencia de Datos, Universidad Católica de Chile
