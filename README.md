@@ -20,6 +20,12 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
+- Creación de modelos de Machine Learning para problemas de Ciencia de Datos
+- Comprensión de técnicas de procesamiento de datos a gran escala
+- Uso de herramientas y bibliotecas de Python para la ciencia de datos (por ejemplo, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- Conocimientos en bases de datos y consultas SQL
+- Diseño de experimentos y pruebas de hipótesis
+- Comunicación efectiva de resultados y hallazgos de análisis de datos
 <br>
 <p align="center">
 <!--
