@@ -42,6 +42,8 @@
     <a href="https://github.com/Mauro-Carcamo"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="https://github.com/Mauro-Carcamo"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="https://github.com/Mauro-Carcamo"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+    <a href="https://github.com/Mauro-Carcamo"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib%20-%23D00000.svg?logo=matplotlib&logoColor=white"></a>
+    <a href="https://github.com/Mauro-Carcamo"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn%20-%234EA94B.svg?logo=seaborn&logoColor=white"></a>
 </p>
 <br>
 </div>
