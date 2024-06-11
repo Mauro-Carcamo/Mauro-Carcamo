@@ -9,11 +9,6 @@
 <br>
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> **Sobre mi**
-
-<picture>
-  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width=250px>
-</picture>
-
 - Sociología, Universidad Central de Chile
 - Diplomado en Ciencia de Datos, Universidad Católica de Chile
 - Bootcamp Developer Full Stack Python, Talento Digital Chile
