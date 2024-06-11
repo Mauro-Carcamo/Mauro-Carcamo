@@ -35,7 +35,9 @@
     <a href="https://github.com/Mauro-Carcamo"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
     <a href="https://github.com/Mauro-Carcamo"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="https://github.com/Mauro-Carcamo"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  <br>
+    <a href="https://github.com/Mauro-Carcamo"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+  <br><br>
+    <a href="https://github.com/Mauro-Carcamo"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit%20learn%20-%234EA94B.svg?logo=scikit-learn&logoColor=white"></a>
     <a href="https://github.com/Mauro-Carcamo"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
     <a href="https://github.com/Mauro-Carcamo"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="https://github.com/Mauro-Carcamo"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
