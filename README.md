@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola ! Soy Mauricio Cárcamo 👋
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&random=false&width=435&lines=Sue%C3%B1o+con+analizar+datos+del+espacio;Pienso+que+es+el+trabajo+de+futuro;Para+eso+me+he+formado+en+...;Ciencia+de+Datos+!;Developer+Full+Stack+Python+!;%C2%BFY+la+Sociolog%C3%ADa%3F+%3A);Es+mi+base+anal%C3%ADtica;Metodol%C3%B3gica;Y+sobre+todo+...;Como+me+enfrento+al+mundo;Desde+el+pensamiento+cr%C3%ADtico"></a>
@@ -10,17 +10,17 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
+Estudios
+- Sociología Universidad Central de Chile
+- Diplomado Ciencia de Datos Universidad Católica de Chile
+- Bootcamp Developer Full Stack Python Talento Digital Chile
+- Bootcampo Especialización en Ciencia de Datos Talento Digital Chile
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
 
