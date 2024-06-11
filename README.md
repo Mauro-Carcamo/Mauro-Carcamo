@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&random=false&width=435&lines=Sue%C3%B1o+con+analizar+datos+del+espacio+:satellite:;Pienso+que+es+el+trabajo+del+futuro;Para+eso+me+he+formado+en+...;Ciencia+de+Datos!;Developer+Full+Stack+Python!;%C2%BFY+la+Sociolog%C3%ADa?;Es+mi+base+anal%C3%ADtica;Metodol%C3%B3gica;Y+sobre+todo+...;Como+me+enfrento+al+mundo;Desde+el+pensamiento+cr%C3%ADtico">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&random=false&width=435&lines=Sue%C3%B1o+con+analizar+datos+del+espacio;Pienso+que+es+el+trabajo+del+futuro;Para+eso+me+he+formado+en+...;Ciencia+de+Datos!;Developer+Full+Stack+Python!;%C2%BFY+la+Sociolog%C3%ADa?;Es+mi+base+anal%C3%ADtica;Metodol%C3%B3gica;Y+sobre+todo+...;Como+me+enfrento+al+mundo;Desde+el+pensamiento+cr%C3%ADtico">
   </a>
 </p>
 
@@ -12,10 +12,10 @@
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> **Sobre mí**
 
-- Sociología, Universidad Central de Chile
-- Diplomado en Ciencia de Datos, Universidad Católica de Chile
-- Bootcamp Developer Full Stack Python, Talento Digital Chile
-- Bootcamp Especialización en Ciencia de Datos, Talento Digital Chile
+- Sociología, Universidad Central de Chile :books:
+- Diplomado en Ciencia de Datos, Universidad Católica de Chile :bar_chart:
+- Bootcamp Developer Full Stack Python, Talento Digital Chile :computer:
+- Bootcamp Especialización en Ciencia de Datos, Talento Digital Chile :chart_with_upwards_trend:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
