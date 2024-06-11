@@ -26,6 +26,7 @@
 - Conocimientos en bases de datos y consultas SQL
 - Diseño de experimentos y pruebas de hipótesis
 - Comunicación efectiva de resultados y hallazgos de análisis de datos
+- Estudiando MLops para el despliegue de los modelos
 <br>
 <p align="center">
 <!--
