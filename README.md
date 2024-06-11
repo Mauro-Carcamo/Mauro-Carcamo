@@ -15,7 +15,6 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-Estudios
 - Sociología Universidad Central de Chile
 - Diplomado Ciencia de Datos Universidad Católica de Chile
 - Bootcamp Developer Full Stack Python Talento Digital Chile
